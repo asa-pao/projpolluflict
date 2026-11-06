@@ -5,6 +5,6 @@ Due to large file sizes, github will not allow uploads of my data. Uploads of fi
 
 
 ACLED Visualization:
-![Events by Year](data/acled/figs/ann_event_Ct.svg)
-![Project Diagram](images/diagram.png)
-![Project Diagram](images/diagram.png)
+![Events by Year](data/acled/figs/ann_event_ct.svg)
+![Subtype Count](data/ACLED/figs/subevtype_event_ct.svg)
+![Interactions Count](data/ACLED/figs/interac.svg)
