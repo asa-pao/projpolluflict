@@ -2,3 +2,9 @@
 
 ## Organization
 Due to large file sizes, github will not allow uploads of my data. Uploads of figures and images will be hosted on this repo.
+
+
+ACLED Visualization:
+![Events by Year](data/acled/figs/ann_event_Ct.svg)
+![Project Diagram](images/diagram.png)
+![Project Diagram](images/diagram.png)
